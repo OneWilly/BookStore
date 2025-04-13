@@ -42,8 +42,9 @@ This repository contains the files for a database design and programming project
 
 **Group Members (If Applicable)**
 
-* [Your Name]
-* [Other Group Member Names]
+* William Oneka
+* Joan Tukuza
+* Godwin Mokua
 
 **Contact**
 
