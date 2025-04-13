@@ -1,5 +1,3 @@
-# BookStore
-MySQL database schema and scripts for managing bookstore data
 # Bookstore Database Project
 
 **Overview**
@@ -9,7 +7,7 @@ This repository contains the files for a database design and programming project
 **Tools and Technologies Used**
 
 * **MySQL:** For building and managing the database.
-* **Draw.io (diagrams.net):** For visualizing the database schema and relationships (schema diagram included in this repository).
+* **Draw.io ([https://app.diagrams.net/](https://app.diagrams.net/)):** For visualizing the database schema and relationships (schema diagram included in this repository).
 
 **Project Objectives**
 
@@ -21,7 +19,7 @@ This repository contains the files for a database design and programming project
 
 **Files Included**
 
-* `bookstore_schema.drawio` (or a exported image like `bookstore_schema.png`): The Draw.io diagram visualizing the database schema.
+* `bookstore_schema.drawio`: Entity-Relationship Diagram (ERD) visualizing the database schema.
 * `bookstore_creation_script.sql`: The SQL script containing the `CREATE DATABASE` and `CREATE TABLE` statements.
 * (Optional) `bookstore_user_setup.sql`: SQL script for creating users and granting privileges.
 * (Optional) `sample_data_insertion.sql`: SQL script to insert some sample data for testing.
@@ -40,7 +38,7 @@ This repository contains the files for a database design and programming project
 * This repository represents the completed work for the Database Design & Programming with SQL assignment.
 * The database is designed according to the specifications provided in the assignment brief.
 
-**Group Members (If Applicable)**
+**Group Members: Tech Titans**
 
 * William Oneka
 * Joan Tukuza
@@ -48,4 +46,6 @@ This repository contains the files for a database design and programming project
 
 **Contact**
 
-* [Your Email Address]
+* william.oneka1@gmail.com
+* ztukuza301@gmail.com
+* Godwinmokua2004@gmail.com
